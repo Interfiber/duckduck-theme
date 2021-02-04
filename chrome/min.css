@@ -1,0 +1,23 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+/* Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding: 6px;
+}
+.button {
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+.button:hover {
+    font-family: 'Open Sans', sans-serif;
+    background-color: darkblue;
+    color: white;
+}
+.large-input {
+    font-size: 24px;
+}
